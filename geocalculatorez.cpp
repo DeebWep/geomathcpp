@@ -185,5 +185,6 @@ int main(){
 			break;
 		}
 	}
+	cout<<"MAHAMMADALI GULUYEV";
 	return 0;
 }
